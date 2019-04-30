@@ -1,0 +1,104 @@
+.container1 {
+    width: 100%;
+    box-sizing: border-box;
+    background-color: white;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+    
+}
+.red1 {
+    width: 30%;
+    height: 15vh;
+    background-color: red;
+    display: flex;
+    order: -1;
+    
+    
+}
+.blue1 {
+    width: 30%;
+    height: 15vh;
+    background-color: blue;
+    display: flex;
+    
+}
+.grey1 {
+    width: 30%;
+    height: 15vh;
+    background-color: grey;
+    display: flex;
+    order: 1;
+    
+}
+.container2 {
+    width: 100%;
+    box-sizing: border-box;
+    background-color: white;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+.text {
+    width: 95%;
+    display: flex;
+}
+.container3 {
+    width: 100%;
+    box-sizing: border-box;
+    background-color: white;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+.red3 {
+    width: 25%;
+    height: 30vh;
+    background-color: red;
+    display: flex;
+    order: -1;
+}
+.blue3 {
+    width: 70%;
+    height: 30vh;
+    background-color: blue;
+    display: flex;
+    order: 1;
+}
+.container4 {
+    width: 100%;
+    box-sizing: border-box;
+    background-color: white;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    margin-top: 2vh;
+}
+.blue4 {
+    width: 70%;
+    height: 15vh;
+    background-color: blue;
+    display: flex;
+    order: -1;
+}
+.red4a {
+    width: 5%;
+    height: 15vh;
+    background-color: red;
+    display: flex;
+    order: 1;
+}
+.red4b {
+    width: 5%;
+    height: 15vh;
+    background-color: red;
+    display: flex;
+}
+.grey4 {
+    width: 15%;
+    height: 15vh;
+    background-color: grey;
+    display: flex;
+}
